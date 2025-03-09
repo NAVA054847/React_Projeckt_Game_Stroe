@@ -30,7 +30,10 @@
 טכנולוגיות בפרויקט:
 
 Frontend (צד לקוח): React, React Router, Bootstrap 5
+
 Backend (צד שרת): Node.js, Express
+
 Database (מסד נתונים): MongoDB
+
 
 מוזמנים לתרום לפיתוח באמצעות Pull Requests ולהציע שיפורים!
